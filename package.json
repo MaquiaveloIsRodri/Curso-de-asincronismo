@@ -1,0 +1,27 @@
+{
+  "name": "curso-de-asincronismo",
+  "version": "1.0.0",
+  "description": "\"En este archivo vamos a generar un documento , en vamos a desarrollar lo aprendido en el \r 'curso de asincronismo con JS'\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaquiaveloIsRodri/Curso-de-asincronismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaquiaveloIsRodri/Curso-de-asincronismo/issues"
+  },
+  "homepage": "https://github.com/MaquiaveloIsRodri/Curso-de-asincronismo#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  }
+  ,
+  "type": "module"
+}
